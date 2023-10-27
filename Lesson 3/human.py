@@ -6,3 +6,5 @@ class Human:
     def __str__(self):
         return (f'Name - {self.Name}\n'
                 f'Role - {self.Role.name}')
+
+    ''''''

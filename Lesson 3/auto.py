@@ -22,3 +22,5 @@ class Auto:
             passengers+=f'\n{passenger.__str__()}'
         return (f'Passengers:\n {passengers}\n'
                 f'Drivers:\n {drivers}')
+
+    ''''''
